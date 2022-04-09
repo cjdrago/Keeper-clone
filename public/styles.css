@@ -9,6 +9,9 @@ html {
 body {
   background: #eee;
   padding: 0 16px;
+  background-color: #d6d6d6;
+background-image: url("https://www.transparenttextures.com/patterns/asfalt-dark.png");
+/* This is mostly intended for prototyping; please download the pattern and re-host for production environments. Thank you! */
 }
 
 header {
@@ -33,7 +36,7 @@ footer {
 }
 
 footer p {
-  color: #ccc;
+  color: rgb(50, 48, 48);
 }
 .note {
   background: #fff;
